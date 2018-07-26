@@ -43,11 +43,11 @@ class Topnav extends Component{
                                 </p>
                             </a>
                             <div className="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                                <a className="dropdown-item" href="#">Mike John responded to your email</a>
-                                <a className="dropdown-item" href="#">You have 5 new tasks</a>
-                                <a className="dropdown-item" href="#">You're now friend with Andrew</a>
-                                <a className="dropdown-item" href="#">Another Notification</a>
-                                <a className="dropdown-item" href="#">Another One</a>
+                                <a className="dropdown-item" href="">Mike John responded to your email</a>
+                                <a className="dropdown-item" href="">You have 5 new tasks</a>
+                                <a className="dropdown-item" href="">You're now friend with Andrew</a>
+                                <a className="dropdown-item" href="">Another Notification</a>
+                                <a className="dropdown-item" href="">Another One</a>
                             </div>
                         </li>
                         <li className="nav-item">

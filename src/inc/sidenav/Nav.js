@@ -2,11 +2,7 @@ import React,{Component } from 'react';
 import {Link } from 'react-router-dom';
 
 class Nav extends Component{
-    constructor(props)
-    {
-        super(props);
-        
-    }
+   
     render(){
         return(
             <div className="sidebar" data-color="purple" data-background-color="white" data-image="./img/sidebar-1.jpg">    

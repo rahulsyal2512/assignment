@@ -1,0 +1,29 @@
+.bg11
+{
+    position: absolute;
+    width:100%;
+    height:100%;
+    background: rgba(255, 255, 255,0.8);
+    z-index: 9;
+}
+
+.spinner {
+    box-sizing: border-box;
+    height: 60px;
+    width: 60px;
+    margin-top: 17%;
+    margin-left: 45%;
+    border: 0px solid #9c27b0;
+    border-radius: 50%;
+    box-shadow: 0 -20px 0 24px #9c27b0 inset;
+    animation: rotate 1s infinite linear;
+  }
+  
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  } 
